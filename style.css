@@ -1,0 +1,48 @@
+#titulo{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: #E0F1F2;
+    color: #13265C;
+    text-align: center;
+    height: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#imagen{
+    height: 170px;
+    float: left;
+    border-radius: 50%;
+}
+hr{
+    border: 2px solid #13265C;
+    width: 80%;
+}
+#izquierda{
+    width: 47%;
+    float: left;
+    text-align: justify;
+}
+#derecha{
+    margin-left: 5%;
+    width: 47%;
+    float: left;
+}
+h3{
+    color: #13265C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fechas{
+    color: #58D6DB;
+    font-size: smaller;
+    margin-left: 40px;
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+
+h4{
+    margin-top: -5px;
+}
+
+p{
+    color: #13265C;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
