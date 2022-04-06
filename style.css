@@ -13,8 +13,9 @@
     border-radius: 50%;
 }
 hr{
-    border: 2px solid #13265C;
-    width: 80%;
+    border: 1px solid #13265C;
+    width: 100%;
+    margin-top: 70px;
 }
 h3{
     color: #13265C;
@@ -46,11 +47,16 @@ p{
 .curriculum{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .izquierda{
+    padding-top: 15px;
+    padding-left: 15px;
     width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 .derecha{
     width: 45%;
