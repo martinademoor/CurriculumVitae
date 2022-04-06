@@ -6,16 +6,12 @@
     text-align: center;
     height: 150px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 1.5px solid #13265C;
 }
 #imagen{
     height: 170px;
     float: left;
     border-radius: 50%;
-}
-hr{
-    border: 1px solid #13265C;
-    width: 100%;
-    margin-top: 70px;
 }
 h3{
     color: #13265C;
